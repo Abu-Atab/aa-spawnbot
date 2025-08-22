@@ -1,5 +1,5 @@
 fx_version 'cerulean'
-description 'Spawn a bot by command, and copy your clothes as him, Made By : @adn9o'
+description 'Spawn a bot by command, and copy your clothes as him, Made By : @abu.atb'
 author 'Abu Atab '
 version '1.0.0'
 lua54 'yes'
@@ -16,4 +16,5 @@ ox_libs {
     'locale',
     'math',
     'table',
+
 }
