@@ -30,9 +30,6 @@ All bots are saved in `config.lua` and automatically respawn when the resource r
 - Each bot gets a unique ID, making it easy to manage or delete.
 - The resource updates `config.lua` automatically when adding/removing bots.
 
-
----
-
 ## License
 
 ### Abu Atab DEV Team – Proprietary License
